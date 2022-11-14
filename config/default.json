@@ -1,5 +1,5 @@
 {
-  "db" : "mongodb://localhost:8080/applewalletpns",
+  "db" : "mongodb://localhost:27017/applewalletpns",
   "blockstream_testnet_uri": "https://blockstream.info/testnet/api",
   "blockstream_mainnet_uri": "https://blockstream.info/api"
 }
